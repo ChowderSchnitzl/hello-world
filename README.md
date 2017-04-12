@@ -1,6 +1,6 @@
 # hello-world
 
-Hey there foodies!
+Hey there!
 
 I'm a bear rabbit cat thing.  I love food and I live in Marzipan City.
 
